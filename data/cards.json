@@ -1,0 +1,38 @@
+[
+  {
+    "image": "assets/angry-monke.png",
+    "name": "ANGRY"
+  },
+  {
+    "image": "assets/dab_monke.png",
+    "name": "DAB"
+  },
+  {
+    "image": "assets/dancing-monke.png",
+    "name": "DANCING"
+  },
+  {
+    "image": "assets/hanging-monke.png",
+    "name": "HANGING"
+  },
+  {
+    "image": "assets/happy_monke.png",
+    "name": "HAPPY"
+  },
+  {
+    "image": "assets/highfive-monke.png",
+    "name": "HIGHFIVE"
+  },
+  {
+    "image": "assets/MESSEDUP-TEETH-MONKE.PNG",
+    "name": "M_TEETH"
+  },
+  {
+    "image": "assets/SADMONKE.png",
+    "name": "SAD"
+  },
+  {
+    "image": "assets/THE_THINKER_MONKE.PNG",
+    "name": "THE_THINKER"
+  }
+]
